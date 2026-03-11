@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCkUXPPk/lA=",
+  "success": true,
+  "projectFilePath": "/Users/saheenshoukath/dev/projects/tsql-parser/microsoft/TSqlParser/TSqlParser.csproj",
+  "expectedPackageFiles": [
+    "/Users/saheenshoukath/.nuget/packages/microsoft.sqlserver.transactsql.scriptdom/170.18.0/microsoft.sqlserver.transactsql.scriptdom.170.18.0.nupkg.sha512"
+  ],
+  "logs": []
+}
